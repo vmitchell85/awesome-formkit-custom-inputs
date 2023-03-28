@@ -15,7 +15,7 @@ Useful custom inputs for [FormKit](https://formkit.com/).
 
 ## Vanilla Inputs
 
-- [Multistep Input](https://formkit.com/plugins/multi-step) - The official multi-step input for FormKit
+- [Multi-step input](https://formkit.com/plugins/multi-step) - The official multi-step input for FormKit.
 
 ## Tailwind CSS
 
